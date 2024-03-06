@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>console</headerType>
+  <jar>C:\Users\uchej\Documents\GitHub\Java_Inventory_Management_System\jimsApp.jar</jar>
+  <outfile>C:\Users\uchej\Documents\GitHub\Java_Inventory_Management_System\jimsJUchemApp.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\uchej\Documents\GitHub\Java_Inventory_Management_System\MyGitHubPix.ico</icon>
+  <jre>
+    <path>%JAVA_HOME%;%PATH%</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion>1.4.0</minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+  <versionInfo>
+    <fileVersion>1.0.0.0</fileVersion>
+    <txtFileVersion>1.0.0.0</txtFileVersion>
+    <fileDescription>This app manages items inventory</fileDescription>
+    <copyright>All rights reserved  Johnfisher Uchem</copyright>
+    <productVersion>1.0.0.0</productVersion>
+    <txtProductVersion>1.0.0.0</txtProductVersion>
+    <productName>jimsJUchemApp</productName>
+    <companyName></companyName>
+    <internalName>jimsJUchemApp</internalName>
+    <originalFilename>jimsJUchemApp.exe</originalFilename>
+    <trademarks></trademarks>
+    <language>ENGLISH_US</language>
+  </versionInfo>
+</launch4jConfig>
